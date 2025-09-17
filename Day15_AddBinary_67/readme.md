@@ -110,3 +110,5 @@ a = "1010", b = "1011"
 ## Notes
 - This is a standard implementation of binary addition.
 - The approach works similarly to how you’d do manual addition on paper.
+<img width="686" height="374" alt="image" src="https://github.com/user-attachments/assets/7fb37ab7-e9ab-4ace-a35c-6ead2f4a7109" />
+
